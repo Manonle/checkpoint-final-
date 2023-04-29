@@ -1,0 +1,203 @@
+.titre1 {
+  display: flex;
+  gap: 50px;
+  height: 80px;
+}
+
+.navbar {
+  display: flex;
+  gap: 500px;
+  margin-left: 300px;
+}
+
+.image {
+  width: 60px;
+  height: 60px;
+}
+
+.section1 {
+  text-align: center;
+  color: rgb(64, 132, 64);
+}
+
+.section2 {
+  display: flex;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: justify;
+  gap: 50px;
+}
+
+.section3 {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-left: 20px;
+}
+
+.box1 {
+  width: 300px;
+  height: 300px;
+  background-color: rgb(59, 212, 176);
+  color: white;
+}
+
+.box2 {
+  width: 300px;
+  height: 300px;
+  background-color: rgb(73, 73, 230);
+  color: white;
+}
+
+.box3 {
+  width: 300px;
+  height: 300px;
+  color: white;
+  background-color: black;
+}
+
+.H2 {
+  margin-left: 20px;
+}
+.p {
+  margin-left: 20px;
+}
+.select {
+  margin-left: 20px;
+}
+
+.section4 {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  gap: 100px;
+  margin-top: 50px;
+  background-color: aquamarine;
+  padding-top: 30px;
+
+  background-image: url(https://slidescorner.com/wp-content/uploads/2022/11/01-Drake-Healthcare-and-Medical-Free-PPT-Background-by-SlidesCorner.com_-500x281.jpg);
+  background-size: cover;
+}
+
+.doublebox1 {
+  display: flex;
+  gap: 50px;
+}
+
+.doublebox2 {
+  display: flex;
+  gap: 50px;
+  margin-top: 30px;
+}
+
+.box5 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+
+  margin-top: 30px;
+  border-radius: 7%;
+}
+.box6 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border-radius: 7%;
+  text-align: center;
+}
+
+.box7 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  margin-top: 30px;
+  border-radius: 7%;
+}
+.box8 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border-radius: 7%;
+}
+
+.sec4title {
+  color: rgb(84, 166, 91);
+}
+
+.sec4parag {
+  color: rgb(53, 64, 62);
+}
+
+.section5 {
+  margin-left: 650px;
+  width: 400px;
+
+  text-align: center;
+}
+
+.section6 {
+  display: flex;
+  gap: 40px;
+  margin-left: 400px;
+  height: 200px;
+  margin-top: 100px;
+}
+
+.container {
+  display: flex;
+  gap: 110px;
+  margin-top: 10px;
+}
+.button {
+  height: 30px;
+  background-color: rgb(51, 51, 188);
+  color: white;
+  border-radius: 7px;
+}
+.section6image {
+  height: 200px;
+  width: 280px;
+}
+.section7 {
+  display: flex;
+  gap: 40px;
+  margin-left: 400px;
+  height: 200px;
+  margin-top: 100px;
+}
+.section8 {
+  display: flex;
+  gap: 40px;
+  margin-left: 400px;
+  height: 200px;
+  margin-top: 100px;
+}
+
+.section9 {
+  margin-left: 400px;
+  height: 200px;
+  margin-top: 100px;
+}
+
+.section10 {
+  margin-top: 150px;
+  margin-left: 650px;
+  width: 400px;
+  height: 200px;
+
+  text-align: center;
+}
+
+.bouton {
+  background-color: rgb(81, 157, 189);
+  color: white;
+  height: 50px;
+  width: 200px;
+  border-radius: 7px;
+}
+
+.section11 {
+  text-align: center;
+  border-top: 200px;
+}
